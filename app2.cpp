@@ -7,4 +7,6 @@ cin >> panjang;
 // Langkah 3
 cout << "Masukkan Lbar :";
 cin >> Lebar;
- 
+
+// Langkah 4
+Luas = panjang * lebar;
