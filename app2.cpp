@@ -1,3 +1,9 @@
+#include <iostream>
+using std::cout;
+using std::endl;
+
+int main ()
+{
 int luas, paanjang, lebar;
 
 // Langkah 2
@@ -14,4 +20,4 @@ Luas = panjang * lebar;
 // Langkah 5
 cout << "Hasilnya : " << luas;
 
-//selesai
+}//selesai
